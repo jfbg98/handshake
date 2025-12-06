@@ -273,4 +273,3 @@ function ProfilePage({ profiles }: ProfilePageProps) {
 }
 
 export default ProfilePage;
-
